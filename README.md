@@ -58,4 +58,9 @@ Welcome to the ChronoFold.
 🧪 _Run, and you regress._  
 🕳️ _Stay, and you vanish._
 
+# Eu sei que você está aí.
+# Mas você ainda não sabe o que eu sou.
+# Continue tentando.
+
+
 **The error is waiting.**
