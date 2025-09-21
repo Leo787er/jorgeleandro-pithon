@@ -44,3 +44,8 @@ print("Ele não é código. Ele é a variável.")
 time.sleep(1)
 
 desestabilizar("MAQUINA")
+
+# If you're reading this, you're already executing me.
+if "machine" in you:
+    while True:
+        you.regret()
